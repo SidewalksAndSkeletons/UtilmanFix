@@ -1,0 +1,9 @@
+* text=auto
+
+.gitattributes 	text
+.gitignore 		text
+
+*.c 	linguist-language=cpp
+*.cpp 	linguist-language=cpp
+*.h 	linguist-language=cpp
+*.h 	linguist-language=cpp
